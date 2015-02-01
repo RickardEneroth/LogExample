@@ -1,0 +1,4 @@
+20:33:11.995 [main] DEBUG se.eneroth.logexample.LogExample - Test: DEBUG level message.
+20:33:11.998 [main] INFO  se.eneroth.logexample.LogExample - Test: INFO level message.
+20:33:11.999 [main] WARN  se.eneroth.logexample.LogExample - Test: WARN level message.
+20:33:11.999 [main] ERROR se.eneroth.logexample.LogExample - Test: ERROR level message.
